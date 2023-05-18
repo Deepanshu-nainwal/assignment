@@ -1,0 +1,124 @@
+{
+  "lawyers": [
+    {
+      "id": 1,
+      "img": "image6.jpg",
+      "name": "Rajesh Kumar",
+      "specialization": "Criminal Law",
+      "location": "Delhi",
+      "phone": "+91 98765XXXXX",
+      "address": "123, Main Street, Delhi",
+      "availableTime": "10:00 AM - 6:00 PM",
+      "firm": "Kumar & Associates",
+      "bookings": []
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "img": "images1.jpg",
+      "specialization": "Family Law",
+      "location": "Mumbai",
+      "phone": "+91 87654XXXXX",
+      "address": "456, Park Avenue, Mumbai",
+      "availableTime": "9:00 AM - 5:00 PM",
+      "firm": "Sharma Law Firm",
+      "bookings": []
+    },
+    {
+      "id": 3,
+      "name": "Amit Verma",
+      "img": "image7.jpg",
+      "specialization": "Corporate Law",
+      "location": "Bangalore",
+      "phone": "+91 76543XXXXX",
+      "address": "789, MG Road, Bangalore",
+      "availableTime": "8:30 AM - 4:30 PM",
+      "firm": "Verma & Co.",
+      "bookings": []
+    },
+    {
+      "id": 4,
+      "name": "Neha Patel",
+      "img": "images2.jpg",
+      "specialization": "Intellectual Property Law",
+      "location": "Ahmedabad",
+      "phone": "+91 65432XXXXX",
+      "address": "234, Industrial Area, Ahmedabad",
+      "availableTime": "9:30 AM - 5:30 PM",
+      "firm": "Patel Legal Services",
+      "bookings": []
+    },
+    {
+      "id": 5,
+      "name": "Sandeep Singh",
+      "img": "images8.jpg",
+      "specialization": "Real Estate Law",
+      "location": "Chennai",
+      "phone": "+91 54321XXXXX",
+      "address": "567, Beach Road, Chennai",
+      "availableTime": "10:00 AM - 6:00 PM",
+      "firm": "Singh & Partners",
+      "bookings": []
+    },
+    {
+      "id": 6,
+      "name": "Shweta Gupta",
+      "img": "images3.jpg",
+      "specialization": "Immigration Law",
+      "location": "Kolkata",
+      "phone": "+91 43210XXXXX",
+      "address": "890, Park Street, Kolkata",
+      "availableTime": "9:00 AM - 5:00 PM",
+      "firm": "Gupta Law Associates",
+      "bookings": []
+    },
+    {
+      "id": 7,
+      "name": "Aman Bhatia",
+      "img": "images9.jpg",
+      "specialization": "Personal Injury Law",
+      "location": "Hyderabad",
+      "phone": "+91 32109XXXXX",
+      "address": "901, Jubilee Hills, Hyderabad",
+      "availableTime": "9:30 AM - 5:30 PM",
+      "firm": "Bhatia Legal Solutions",
+      "bookings": []
+    },
+    {
+      "id": 8,
+      "name": "Anita Reddy",
+      "img": "images4.jpg",
+      "specialization": "Tax Law",
+      "location": "Pune",
+      "phone": "+91 21098XXXXX",
+      "address": "345, MG Road, Pune",
+      "availableTime": "8:30 AM - 4:30 PM",
+      "firm": "Reddy & Associates",
+      "bookings": []
+    },
+    {
+      "id": 9,
+      "name": "Rahul Sharma",
+      "img": " images5.jpg",
+      "specialization": "Labor Law",
+      "location": "Jaipur",
+      "phone": "+91 10987XXXXX",
+      "address": "678, Civil Lines, Jaipur",
+      "availableTime": "10:00 AM - 6:00 PM",
+      "firm": "Sharma Legal Consultancy",
+      "bookings": []
+    },
+    {
+      "id": 10,
+      "name": "Sonia Kapoor",
+      "img": "images10.jpg",
+      "specialization": "Environmental Law",
+      "location": "Lucknow",
+      "phone": "+91 09876XXXXX",
+      "address": "912, Hazratganj, Lucknow",
+      "availableTime": "9:00 AM - 5:00 PM",
+      "firm": "Kapoor Law Chambers",
+      "bookings": []
+    }
+  ]
+}
