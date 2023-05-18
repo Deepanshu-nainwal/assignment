@@ -1,0 +1,57 @@
+.modal_div {
+  /* position: absolute; */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  border: 1px solid;
+  width: 63%;
+  border-radius: 1.3rem;
+  /* border: 0.2rem solid #37b24d; */
+  padding: 1.5rem 2rem;
+  text-align: end;
+  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.7);
+}
+.hide {
+  display: none;
+}
+.modal_time {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.time {
+  padding: 1rem 1rem;
+  border: 0.1rem solid #51cf66;
+  color: #51cf66;
+  font-weight: 500;
+  background-color: #ebfbee;
+  margin: 0.5rem 0.2rem;
+  border-radius: 0.7rem;
+  cursor: pointer;
+}
+.active {
+  padding: 1rem 1rem;
+  cursor: initial;
+  border: 0.1rem solid #ced4da;
+  font-weight: 500;
+  color: #ced4da;
+  background-color: #f1f3f5;
+  margin: 0.5rem 0.2rem;
+  border-radius: 0.7rem;
+}
+.modal_close_btn {
+  font-weight: 700;
+  font-size: 1.4rem;
+  border-radius: 0.6rem;
+  padding: 0.5rem 1.2rem;
+  border: 2px solid white;
+  background-color: green;
+  color: white;
+}
+.book_Appointment {
+  text-align: center;
+  padding: 0.7rem 0;
+}

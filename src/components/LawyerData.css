@@ -1,0 +1,8 @@
+.lawyers_data {
+  text-align: start;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem 6rem;
+}
